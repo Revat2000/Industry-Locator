@@ -1,0 +1,195 @@
+{
+    "OneC" : {
+      "machine_comment_new" : {
+        "-MAkpX4-uaRgdNvNxHpU" : {
+          "comments" : {
+            "-MAkpX415IwipxBVluBM" : {
+              "com" : "Полоцкая ТЭЦ",
+              "comID" : "0000000000004",
+              "products" : {
+                "-MAkpX430Qaz3x6bu5Pt" : {
+                  "operations" : {
+                    "-MAkpX46O26NvDJFaK-7" : {
+                      "activity" : {
+                        "balance" : 2,
+                        "finish" : 2,
+                        "start" : 50
+                      },
+                      "operID" : "0000000000009",
+                      "operation" : "Мойка"
+                    }
+                  },
+                  "prodID" : "0000000000008",
+                  "product" : "Диафрагма"
+                }
+              }
+            }
+          },
+          "id" : 1
+        }
+      }
+    },
+      "work_distribution" : {
+        "date" : "21.07.2020",
+        "fio" : "Сидоров С.С."
+      },
+    "machines" : [ {
+      "id" : 1,
+      "image" : "http://pointltd.by/images/VirtualGidePoint/images/machines/1-280x224.jpg",
+      "title" : "Обрабатывающий центр (малый)",
+      "used" : false
+    }, {
+      "id" : 2,
+      "image" : "http://pointltd.by/images/VirtualGidePoint/images/machines/10-2-250x192.png",
+      "title" : "HAAS старый",
+      "used" : false
+    }, {
+      "id" : 3,
+      "image" : "http://pointltd.by/images/VirtualGidePoint/images/machines/3-2-150x200.png",
+      "title" : "Фрезерный (большой)",
+      "used" : false
+    }, {
+      "id" : 4,
+      "image" : "http://pointltd.by/images/VirtualGidePoint/images/machines/12-2-188x229.png",
+      "title" : "Вертолёт (новый)",
+      "used" : false
+    }, {
+      "id" : 5,
+      "image" : "http://pointltd.by/images/VirtualGidePoint/images/machines/5-2-243x203.png",
+      "title" : "GRENWAY",
+      "used" : false
+    }, {
+      "id" : 6,
+      "image" : "http://pointltd.by/images/VirtualGidePoint/images/machines/13-2-187x222.png",
+      "title" : "Вертолёт (старый)",
+      "used" : false
+    }, {
+      "id" : 7,
+      "image" : "http://pointltd.by/images/VirtualGidePoint/images/machines/11-2-250x210.png",
+      "title" : "Испанец",
+      "used" : false
+    }, {
+      "id" : 8,
+      "image" : "http://pointltd.by/images/VirtualGidePoint/images/machines/2-2-250x201.png",
+      "title" : "Обрабатывающий центр (большой)",
+      "used" : false
+    }, {
+      "id" : 9,
+      "image" : "http://pointltd.by/images/VirtualGidePoint/images/machines/14-2-209x196.png",
+      "title" : "Полигональный (малый)",
+      "used" : false
+    }, {
+      "id" : 10,
+      "image" : "http://pointltd.by/images/VirtualGidePoint/images/machines/15-2-188x203.png",
+      "title" : "Полигональный (большой)",
+      "used" : false
+    }, {
+      "id" : 11,
+      "image" : "http://pointltd.by/images/VirtualGidePoint/images/machines/16-2-225x151.png",
+      "title" : "Глубокого сверления (малый)",
+      "used" : false
+    }, {
+      "id" : 12,
+      "image" : "http://pointltd.by/images/VirtualGidePoint/images/machines/17-2-225x152.png",
+      "title" : "Глубокого сверления (большой)",
+      "used" : false
+    }, {
+      "id" : 13,
+      "image" : "http://pointltd.by/images/VirtualGidePoint/images/machines/18-2-250x155.png",
+      "title" : "FAGOR",
+      "used" : false
+    }, {
+      "id" : 14,
+      "image" : "http://pointltd.by/images/VirtualGidePoint/images/machines/19-2-215x198.png",
+      "title" : "Тайванец (большой)",
+      "used" : false
+    }, {
+      "id" : 15,
+      "image" : "http://pointltd.by/images/VirtualGidePoint/images/machines/20-2-237x174.png",
+      "title" : "Русский с ЧПУ",
+      "used" : false
+    }, {
+      "id" : 16,
+      "image" : "http://pointltd.by/images/VirtualGidePoint/images/machines/26-2-250x171.png",
+      "title" : "Заготовка",
+      "used" : false
+    }, {
+      "id" : 17,
+      "image" : "http://pointltd.by/images/VirtualGidePoint/images/machines/6-2-182x167.png",
+      "title" : "Тайванец (правый)",
+      "used" : false
+    }, {
+      "id" : 18,
+      "image" : "http://pointltd.by/images/VirtualGidePoint/images/machines/7-2-188x198.png",
+      "title" : "Тайванец (левый)",
+      "used" : false
+    }, {
+      "id" : 19,
+      "image" : "http://pointltd.by/images/VirtualGidePoint/images/machines/8-2-250x202.png",
+      "title" : "Таракан",
+      "used" : false
+    }, {
+      "id" : 20,
+      "image" : "http://pointltd.by/images/VirtualGidePoint/images/machines/-2-250179.png",
+      "title" : "Слесарные работы",
+      "used" : false
+    }, {
+      "id" : 21,
+      "image" : "http://pointltd.by/images/VirtualGidePoint/images/machines/-2-170250.png",
+      "title" : "Мойка",
+      "used" : false
+    }, {
+      "id" : 22,
+      "image" : "http://pointltd.by/images/VirtualGidePoint/images/machines/---250186.png",
+      "title" : "Тайванец большой (старый)",
+      "used" : false
+    }, {
+      "id" : 23,
+      "image" : "http://pointltd.by/images/VirtualGidePoint/images/machines/welding-1-135x270.png",
+      "title" : "Сварка",
+      "used" : false
+    }, {
+      "id" : 24,
+      "image" : "http://pointltd.by/images/VirtualGidePoint/images/machines/24-2-200x179.png",
+      "title" : "Токарный Бортников",
+      "used" : false
+    }, {
+      "id" : 25,
+      "image" : "http://pointltd.by/images/VirtualGidePoint/images/machines/27-2-230x145.png",
+      "title" : "Токарный Марцулевич",
+      "used" : false
+    }, {
+      "id" : 26,
+      "image" : "http://pointltd.by/images/VirtualGidePoint/images/machines/29-2-223x250.png",
+      "title" : "Токарный Сырадоев",
+      "used" : false
+    }, {
+      "id" : 27,
+      "image" : "http://pointltd.by/images/VirtualGidePoint/images/machines/30-2-250x159.png",
+      "title" : "Токарный Студент",
+      "used" : false
+    }, {
+      "id" : 28,
+      "image" : "http://pointltd.by/images/VirtualGidePoint/images/machines/28-2-190x231.png",
+      "title" : "Редуционный",
+      "used" : false
+    } ],
+    "start" : {
+      "balance" : 20,
+      "barcode" : "2000000111",
+      "comment" : "Полоцкая ТЭЦ",
+      "commentID" : "0000000000004",
+      "date" : "2020-07-21T00:00:00",
+      "finish" : 5,
+      "fio" : "Сидоров С.С.",
+      "machine" : "Токарный Бортников",
+      "machineID" : 24,
+      "operation" : "Токарная 2 сторона",
+      "operationID" : "0000000000003",
+      "product" : "Гильза ГЦП.115-М18х1,5",
+      "productID" : "0000000000002",
+      "start" : 25,
+      "uBarcode" : "2000000444"
+    }
+  }
+  
