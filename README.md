@@ -1,5 +1,5 @@
 # Industry-Locator
-control of the current workload of machines (контроль текущей загруженности станков)
+Control of the current workload of machines / Контроль текущей загруженности станков
 
 # Тестовая авторизация:
 Demo:   https://industry-locator.web.app/
