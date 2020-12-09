@@ -2,6 +2,7 @@
 control of the current workload of machines (контроль текущей загруженности станков)
 
 # Тестовая авторизация:
+Перейдите на демо-версию приложения: https://industry-locator.web.app/
 login:   revat_2015@mail.ru
 password:   333333
 
